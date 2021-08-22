@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70.303909mm"
+   height="90.54734mm"
+   viewBox="0 0 70.303909 90.54734"
+   version="1.1"
+   id="svg12862"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="libreos logo yazılı.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12864"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.49264169"
+     inkscape:cx="204.00222"
+     inkscape:cy="253.73411"
+     inkscape:window-width="1362"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs12859">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1791"
+       id="linearGradient1793"
+       x1="153.57893"
+       y1="69.322212"
+       x2="208.88594"
+       y2="119.29807"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-89.530946,11.715489)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1791">
+      <stop
+         style="stop-color:#62a0ea;stop-opacity:1"
+         offset="0"
+         id="stop1787" />
+      <stop
+         style="stop-color:#1c71d8;stop-opacity:1"
+         offset="1"
+         id="stop1789" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient3681"
+       x1="548.15424"
+       y1="498.62869"
+       x2="418.4566"
+       y2="404.73749"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4205">
+      <stop
+         style="stop-color:#26a269;stop-opacity:1"
+         offset="0"
+         id="stop4201" />
+      <stop
+         style="stop-color:#57e389;stop-opacity:1"
+         offset="1"
+         id="stop4203" />
+    </linearGradient>
+    <rect
+       x="518.23071"
+       y="551.03442"
+       width="530.26105"
+       height="127.38479"
+       id="rect8115" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.779328,-80.937906)">
+    <circle
+       style="fill:url(#linearGradient1793);fill-opacity:1;stroke-width:0.264583"
+       id="path1435"
+       cx="89.680641"
+       cy="106.4656"
+       r="25.527693" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient3681);fill-opacity:1"
+       id="path1549"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="460.49847"
+       sodipodi:cy="448.0206"
+       sodipodi:r1="101.21617"
+       sodipodi:r2="50.608086"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.26458334,0,0,0.26458334,-47.868638,7.942838)"
+       inkscape:transform-center-y="-6.6950277"
+       d="m 548.15425,498.62869 -175.31155,-1e-5 87.65577,-151.82425 z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.4671422,0,0,0.4671422,-191.71064,-102.89337)"
+       id="text8113"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8115);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="518.23047"
+         y="586.95566"
+         id="tspan12982"><tspan
+           style="font-weight:800;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff"
+           id="tspan12980">LibreOS</tspan></tspan></text>
+  </g>
+</svg>
