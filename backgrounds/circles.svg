@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="820"
+   height="462"
+   viewBox="0 0 820 462"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.93506494"
+     inkscape:cx="410.13194"
+     inkscape:cy="231"
+     inkscape:window-width="1366"
+     inkscape:window-height="641"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2182">
+      <path
+         style="fill:#00112b;stroke-width:7.31748"
+         id="path2184"
+         width="820"
+         height="462"
+         x="0"
+         y="0"
+         sodipodi:type="rect"
+         d="M 0,0 H 820 V 462 H 0 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2186">
+      <path
+         style="fill:#00112b;stroke-width:7.31748"
+         id="path2188"
+         width="820"
+         height="462"
+         x="0"
+         y="0"
+         sodipodi:type="rect"
+         d="M 0,0 H 820 V 462 H 0 Z"
+         transform="rotate(90)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2190">
+      <path
+         style="fill:#00112b;stroke-width:7.31748"
+         id="path2192"
+         width="820"
+         height="462"
+         x="0"
+         y="0"
+         sodipodi:type="rect"
+         d="M 0,0 H 820 V 462 H 0 Z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00112b;stroke-width:7.31748"
+       id="path2167"
+       width="820"
+       height="462"
+       x="0"
+       y="0"
+       sodipodi:type="rect"
+       d="M 0,0 H 820 V 462 H 0 Z" />
+    <path
+       style="fill:#003380;stroke:#0066ff;stroke-width:23.2403;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect189"
+       width="169.8649"
+       height="318.31763"
+       x="582.44061"
+       y="283.80048"
+       ry="84.932449"
+       rx="0"
+       sodipodi:type="rect"
+       d="m 667.37306,283.80048 c 47.05258,0 84.93245,37.87987 84.93245,84.93245 v 148.45272 c 0,47.05258 -37.87987,84.93245 -84.93245,84.93245 -47.05257,0 -84.93245,-37.87987 -84.93245,-84.93245 V 368.73293 c 0,-47.05258 37.87988,-84.93245 84.93245,-84.93245 z"
+       clip-path="url(#clipPath2190)" />
+    <path
+       style="fill:#008033;stroke:#00d455;stroke-width:23.2403;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1330"
+       width="169.8649"
+       height="318.31763"
+       x="-220.57492"
+       y="582.44061"
+       ry="84.932449"
+       rx="0"
+       transform="rotate(-90)"
+       sodipodi:type="rect"
+       d="m -135.64247,582.44061 c 47.052576,0 84.932448,37.87988 84.932448,84.93245 v 148.45273 c 0,47.05258 -37.879872,84.93245 -84.932448,84.93245 -47.05258,0 -84.93245,-37.87987 -84.93245,-84.93245 V 667.37306 c 0,-47.05257 37.87987,-84.93245 84.93245,-84.93245 z"
+       clip-path="url(#clipPath2186)" />
+    <circle
+       style="fill:#008066;stroke:#00ffcc;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1492"
+       r="87.722145"
+       cy="231"
+       cx="454.94775"
+       clip-path="url(#clipPath2182)" />
+  </g>
+</svg>
