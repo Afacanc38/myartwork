@@ -1,201 +1,253 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Free Art License 1.3
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-   1. Definitions.
+[ Copyleft Attitude ]
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+Free Art License 1.3 (FAL 1.3)
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+Preamble
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+The Free Art License grants the right to freely copy, distribute, and
+transform creative works without infringing the author's rights.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+The Free Art License recognizes and protects these rights. Their
+implementation has been reformulated in order to allow everyone to use
+creations of the human mind in a creative manner, regardless of their
+types and ways of expression.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+While the public's access to creations of the human mind usually is
+restricted by the implementation of copyright law, it is favoured by
+the Free Art License. This license intends to allow the use of a
+work’s resources; to establish new conditions for creating in order to
+increase creation opportunities. The Free Art License grants the right
+to use a work, and acknowledges the right holder’s and the user’s
+rights and responsibility.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+The invention and development of digital technologies, Internet and
+Free Software have changed creation methods: creations of the human
+mind can obviously be distributed, exchanged, and transformed. They
+allow to produce common works to which everyone can contribute to the
+benefit of all.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+The main rationale for this Free Art License is to promote and protect
+these creations of the human mind according to the principles of
+copyleft: freedom to use, copy, distribute, transform, and prohibition
+of exclusive appropriation.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+Definitions
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+“work” either means the initial work, the subsequent works or the
+common work as defined hereafter:
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+“common work” means a work composed of the initial work and all
+subsequent contributions to it (originals and copies). The initial
+author is the one who, by choosing this license, defines the
+conditions under which contributions are made.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+“Initial work” means the work created by the initiator of the common
+work (as defined above), the copies of which can be modified by
+whoever wants to
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+“Subsequent works” means the contributions made by authors who
+participate in the evolution of the common work by exercising the
+rights to reproduce, distribute, and modify that are granted by the
+license.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+“Originals” (sources or resources of the work) means all copies of
+either the initial work or any subsequent work mentioning a date and
+used by their author(s) as references for any subsequent updates,
+interpretations, copies or reproductions.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+“Copy” means any reproduction of an original as defined by this
+license.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+1. OBJECT
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+The aim of this license is to define the conditions under which one
+can use this work freely.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+2. SCOPE
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+This work is subject to copyright law. Through this license its author
+specifies the extent to which you can copy, distribute, and modify it.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+2.1 FREEDOM TO COPY (OR TO MAKE REPRODUCTIONS)
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+You have the right to copy this work for yourself, your friends or any
+other person, whatever the technique used.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+2.2 FREEDOM TO DISTRIBUTE, TO PERFORM IN PUBLIC
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+You have the right to distribute copies of this work; whether modified
+or not, whatever the medium and the place, with or without any charge,
+provided that you: attach this license without any modification to the
+copies of this work or indicate precisely where the license can be
+found, specify to the recipient the names of the author(s) of the
+originals, including yours if you have modified the work, specify to
+the recipient where to access the originals (either initial or
+subsequent).
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+The authors of the originals may, if they wish to, give you the right
+to distribute the originals under the same conditions as the copies.
 
-   END OF TERMS AND CONDITIONS
+2.3 FREEDOM TO MODIFY
 
-   APPENDIX: How to apply the Apache License to your work.
+You have the right to modify copies of the originals (whether initial
+or subsequent) provided you comply with the following conditions: all
+conditions in article 2.2 above, if you distribute modified copies;
+indicate that the work has been modified and, if it is possible, what
+kind of modifications have been made; distribute the subsequent work
+under the same license or any compatible license.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+The author(s) of the original work may give you the right to modify it
+under the same conditions as the copies.
 
-   Copyright [yyyy] [name of copyright owner]
+3. RELATED RIGHTS
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+Activities giving rise to author’s rights and related rights shall not
+challenge the rights granted by this license.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+For example, this is the reason why performances must be subject to
+the same license or a compatible license. Similarly, integrating the
+work in a database, a compilation or an anthology shall not prevent
+anyone from using the work under the same conditions as those defined
+in this license.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+4. INCORPORATION OF THE WORK
+
+Incorporating this work into a larger work that is not subject to the
+Free Art License shall not challenge the rights granted by this
+license.
+
+If the work can no longer be accessed apart from the larger work in
+which it is incorporated, then incorporation shall only be allowed
+under the condition that the larger work is subject either to the Free
+Art License or a compatible license.
+
+5. COMPATIBILITY
+
+A license is compatible with the Free Art License provided: it gives
+the right to copy, distribute, and modify copies of the work including
+for commercial purposes and without any other restrictions than those
+required by the respect of the other compatibility criteria; it
+ensures proper attribution of the work to its authors and access to
+previous versions of the work when possible; it recognizes the Free
+Art License as compatible (reciprocity); it requires that changes made
+to the work be subject to the same license or to a license which also
+meets these compatibility criteria.
+
+6. YOUR INTELLECTUAL RIGHTS
+
+This license does not aim at denying your author's rights in your
+contribution or any related right. By choosing to contribute to the
+development of this common work, you only agree to grant others the
+same rights with regard to your contribution as those you were granted
+by this license. Conferring these rights does not mean you have to
+give up your intellectual rights.
+
+7. YOUR RESPONSIBILITIES
+
+The freedom to use the work as defined by the Free Art License (right
+to copy, distribute, modify) implies that everyone is responsible for
+their own actions.
+
+8. DURATION OF THE LICENSE
+
+This license takes effect as of your acceptance of its terms. The act
+of copying, distributing, or modifying the work constitutes a tacit
+agreement. This license will remain in effect for as long as the
+copyright which is attached to the work. If you do not respect the
+terms of this license, you automatically lose the rights that it
+confers.
+
+If the legal status or legislation to which you are subject makes it
+impossible for you to respect the terms of this license, you may not
+make use of the rights which it confers.
+
+9. VARIOUS VERSIONS OF THE LICENSE
+
+This license may undergo periodic modifications to incorporate
+improvements by its authors (instigators of the “Copyleft Attitude”
+movement) by way of new, numbered versions.
+
+You will always have the choice of accepting the terms contained in
+the version under which the copy of the work was distributed to you,
+or alternatively, to use the provisions of one of the subsequent
+versions.
+
+10. SUB-LICENSING
+
+Sub-licenses are not authorized by this license. Any person wishing to
+make use of the rights that it confers will be directly bound to the
+authors of the common work.
+
+11. LEGAL FRAMEWORK
+
+This license is written with respect to both French law and the Berne
+Convention for the Protection of Literary and Artistic Works.
+
+USER GUIDE
+
+- How to use the Free Art License?
+
+To benefit from the Free Art License, you only need to mention the
+following elements on your work:
+
+  [Name of the author, title, date of the work. When applicable, names
+  of authors of the common work and, if possible, where to find the
+  originals].
+
+Copyleft: This is a free work, you can copy, distribute, and modify it
+under the terms of the Free Art License
+http://artlibre.org/licence/lal/en/
+
+- Why to use the Free Art License?
+
+  1.To give the greatest number of people access to your work.
+
+  2.To allow it to be distributed freely.
+
+  3.To allow it to evolve by allowing its copy, distribution, and
+    transformation by others.
+
+  4.So that you benefit from the resources of a work when it is under
+    the Free Art License: to be able to copy, distribute or transform
+    it freely.
+
+  5.But also, because the Free Art License offers a legal framework to
+    disallow any misappropriation. It is forbidden to take hold of
+    your work and bypass the creative process for one's exclusive
+    possession.
+
+
+- When to use the Free Art License?
+
+Any time you want to benefit and make others benefit from the right to
+copy, distribute and transform creative works without any exclusive
+appropriation, you should use the Free Art License. You can for
+example use it for scientific, artistic or educational projects.
+
+- What kinds of works can be subject to the Free Art License?
+
+The Free Art License can be applied to digital as well as physical
+works.  You can choose to apply the Free Art License on any text,
+picture, sound, gesture, or whatever sort of stuff on which you have
+sufficient author's rights.
+
+- Historical background of this license:
+
+It is the result of observing, using and creating digital
+technologies, free software, the Internet and art. It arose from the
+“Copyleft Attitude” meetings which took place in Paris in 2000. For
+the first time, these meetings brought together members of the Free
+Software community, artists, and members of the art world. The goal
+was to adapt the principles of Copyleft and free software to all sorts
+of creations. http://www.artlibre.org
+
+Copyleft Attitude, 2007.
+
+You can make reproductions and distribute this license verbatim
+(without any changes).
+
+    Translation : Jonathan Clarke, Benjamin Jean, Griselda Jung, Fanny
+    Mourguet, Antoine Pitrou.  Thanks to framalang.org 
